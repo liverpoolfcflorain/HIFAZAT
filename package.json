@@ -1,0 +1,9 @@
+{
+  "name": "hifazat-guide",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Hifazat Guide public information site",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
